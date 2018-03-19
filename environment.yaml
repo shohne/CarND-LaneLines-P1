@@ -154,5 +154,4 @@ dependencies:
   - jupyter-core==4.4.0
   - prompt-toolkit==1.0.15
   - tensorflow==1.4.1
-prefix: /home/hohne/anaconda3/envs/carnd-term1-gpu
 
