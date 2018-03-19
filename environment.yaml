@@ -1,4 +1,4 @@
-name: carnd-term1-gpu
+name: carnd-lane-detection
 channels:
 - menpo
 - conda-forge
