@@ -38,3 +38,15 @@ jupyter notebook P1.ipynb
 Implementation Details
 ---
 Please visit the [report.md](report.md) for more information about the algorithm pipeline and its shortcomings.
+
+Ouput and List of Files
+---
+As an example of produced video running the iPython Notebook:
+
+[P1.mp4](P1.mp4)
+
+Some usefull files and folders in this project:
+
+- **P1.ipynb** iPython Notebook with the implementation;
+- **environment.yaml** used to create conda environment;
+- **report.md** detailed description of pipeline;
